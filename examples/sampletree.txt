@@ -1,0 +1,7 @@
+root
+├── README.md
+├── src
+│   ├── main.py
+│   └── utils
+└── data
+    └── input.txt
